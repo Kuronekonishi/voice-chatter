@@ -1,0 +1,4 @@
+sounddevice==0.4.6
+websockets==12.0
+python-dotenv==1.0.1
+numpy==1.26.4
